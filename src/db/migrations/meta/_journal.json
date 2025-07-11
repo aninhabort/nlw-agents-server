@@ -15,6 +15,13 @@
       "when": 1752072173958,
       "tag": "0001_silky_maggott",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752168069622,
+      "tag": "0002_loving_colossus",
+      "breakpoints": true
     }
   ]
 }
